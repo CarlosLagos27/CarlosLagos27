@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,postgres,nodejs,react,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,postgres,nodejs,react,vscode,windows,linux)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
