@@ -9,4 +9,4 @@
 <h1></h1>
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,nodejs,vscode,)](https://skillicons.dev)
