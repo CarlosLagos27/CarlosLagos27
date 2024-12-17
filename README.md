@@ -8,4 +8,4 @@
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,nodejs,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,postgres,nodejs,react,vscode,)](https://skillicons.dev)
