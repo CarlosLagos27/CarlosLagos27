@@ -11,8 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,postgres,nodejs,react,vscode,windows,linux)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/CarlosLagos27">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosLagos27&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlosLagos27&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
 
-![CarlosLagos27's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLagos27&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLagos27&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@CarlosLagos27/79cd408d-2c54-421e-aef3-ef0007369468.png" width = 400px /></a>
