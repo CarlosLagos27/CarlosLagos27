@@ -8,5 +8,5 @@
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
 <h1></h1>
 
-#Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,vscode,)](https://skillicons.dev)
