@@ -7,3 +7,6 @@
 🎓 &nbsp;I just graduated of the systems engineering career and i'm looking to learn more about the developer's world\
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
 <h1></h1>
+
+#Skills
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
