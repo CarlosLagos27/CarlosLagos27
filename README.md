@@ -6,7 +6,6 @@
 💡 &nbsp;I love to learn new things, i think that improve my knowledge it's the key to be better\
 🎓 &nbsp;I just graduated of the systems engineering career and i'm looking to learn more about the developer's world\
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
-<h1></h1>
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,nodejs,vscode,)](https://skillicons.dev)
