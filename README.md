@@ -7,5 +7,14 @@
 🎓 &nbsp;I just graduated of the systems engineering career and i'm looking to learn more about the developer's world\
 🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
 
-# Skills
+# My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,mysql,postgres,nodejs,react,vscode,)](https://skillicons.dev)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
