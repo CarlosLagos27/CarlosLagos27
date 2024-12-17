@@ -5,4 +5,4 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I love to learn new things, i think that improve my knowledge it's the key to be better\
 🎓 &nbsp;I just graduated of the systems engineering career and i'm looking to learn more about the developer's world\
-🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks\
+🌱 &nbsp;I'm on track for learning more about programming languages and different frameworks
